@@ -1,14 +1,14 @@
 +++
 date = 2017-01-01T00:00:00  # Schedule page publish date.
 
-title = "The root microbiome viewed across diverse plant species"
-time_start = 2017-01-17T13:00:00
-time_end = 2017-01-17T15:00:00
+title = "The ricrobiome of cultivated rice"
+time_start = 2015-07-01T13:00:00
+time_end = 2015-07-01T15:00:00
 abstract = ""
 abstract_short = ""
-event = "Plant and Animal Genome Conference XXV"
-event_url = "https://pag.confex.com/pag/xxv/webprogram/start.html"
-location = "San Diego, California"
+event = "Phytobiomes"
+event_url = "http://www.phytobiomes.org/Pages/default.aspx"
+location = "Washington, DC"
 
 # Is this a selected talk? (true/false)
 selected = true
